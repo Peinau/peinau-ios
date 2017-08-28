@@ -1,1 +1,1 @@
-# peinau-ios
+# Peinau iOS SDK
